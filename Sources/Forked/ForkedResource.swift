@@ -1,5 +1,5 @@
 import Foundation
-import Synchronization
+// import Synchronization
 
 /// The version of the Forked API. Older versions are incapable or understanding or
 /// merging with the newer versions. (Newer versions should be capable of importing
